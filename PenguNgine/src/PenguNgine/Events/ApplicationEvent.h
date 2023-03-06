@@ -2,8 +2,6 @@
 
 #include "Event.h"
 
-#include <sstream>
-
 namespace Pengu {
 
 	class PENGU_API WindowResizeEvent : public Event

@@ -2,8 +2,8 @@
 
 #include "PenguNgine/Core.h"
 
-#include <string>
 #include <functional>
+
 
 namespace Pengu {
 
